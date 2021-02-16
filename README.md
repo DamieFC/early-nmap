@@ -1,7 +1,7 @@
 # Early nmap
 The very first version of nmap that was featured in the "Phrack" magazine in 1997.
 ## The article
-The link to the article is https://nmap.org/p51-11.html
+The link to the article is [https://nmap.org/p51-11.html](https://nmap.org/p51-11.html), but I still have it.
 ```
 ---[  Phrack Magazine   Volume 7, Issue 51 September 01, 1997, article 11 of 17
 
